@@ -1,0 +1,2 @@
+# enight
+Enight Scrims Bot 
